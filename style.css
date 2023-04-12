@@ -6,3 +6,8 @@ h1 {
 color: navy;
 margin-left: 20px;
 }
+p{
+text-color:red;
+text-font:calibari;
+font-size:13;
+}
